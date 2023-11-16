@@ -61,7 +61,7 @@ a {
     padding: 10px 25px;
 }
 
-#headerCta p {
+p.gray {
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
@@ -102,3 +102,40 @@ a {
 .headerLogo {
     text-align: center;
 }
+
+h2.red {
+    font-family: Poppins;
+    font-style: normal;
+    line-height: bold;
+    font-size: 16px;
+    text-align: center;
+    color: #F75C4E;
+}
+
+h1.black {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #000000;
+    margin-top: 15px;
+}
+
+.textCenter {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#services .textCenter h3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #070F18;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
